@@ -1,0 +1,7 @@
+C:\Users\Odyssey\School\3rdYear2ndSem\IT_Elective_2\Activity_1\CodacLogisticsAuditor\CodacLogisticsAuditor\bin\Debug\CodacLogisticsAuditor.exe.config
+C:\Users\Odyssey\School\3rdYear2ndSem\IT_Elective_2\Activity_1\CodacLogisticsAuditor\CodacLogisticsAuditor\bin\Debug\CodacLogisticsAuditor.exe
+C:\Users\Odyssey\School\3rdYear2ndSem\IT_Elective_2\Activity_1\CodacLogisticsAuditor\CodacLogisticsAuditor\bin\Debug\CodacLogisticsAuditor.pdb
+C:\Users\Odyssey\School\3rdYear2ndSem\IT_Elective_2\Activity_1\CodacLogisticsAuditor\CodacLogisticsAuditor\obj\Debug\CodacLogisticsAuditor.csproj.AssemblyReference.cache
+C:\Users\Odyssey\School\3rdYear2ndSem\IT_Elective_2\Activity_1\CodacLogisticsAuditor\CodacLogisticsAuditor\obj\Debug\CodacLogisticsAuditor.csproj.CoreCompileInputs.cache
+C:\Users\Odyssey\School\3rdYear2ndSem\IT_Elective_2\Activity_1\CodacLogisticsAuditor\CodacLogisticsAuditor\obj\Debug\CodacLogisticsAuditor.exe
+C:\Users\Odyssey\School\3rdYear2ndSem\IT_Elective_2\Activity_1\CodacLogisticsAuditor\CodacLogisticsAuditor\obj\Debug\CodacLogisticsAuditor.pdb
